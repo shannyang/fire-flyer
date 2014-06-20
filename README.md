@@ -1,10 +1,11 @@
-Fire Flyer (15-112 Term Project)
+Fire Flyer
 ============
 
-Made with love, Python 2, and [pygame 1.9.1](http://www.pygame.org/download.shtml).
+Made with love, Python 2, and [pygame 1.9.1](http://www.pygame.org/download.shtml) for the Fall 2013 edition of 15-112 at Carnegie Mellon University.
+
+By Shannon Yang, freshman.
 
 [Demo video](http://www.youtube.com/watch?v=4UeAwxQZLOA)
-
 ============
 
 You control a firefighter in a burning city. Unfortunately, all your conventional firefighting tools are gone and you must put out the fires using a little rain falling from the sky.
