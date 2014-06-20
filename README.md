@@ -7,7 +7,6 @@ By Shannon Yang, freshman.
 
 [Demo video](http://www.youtube.com/watch?v=4UeAwxQZLOA)
 
-Blurb
 ============
 
 You control a firefighter in a burning city. Unfortunately, all your conventional firefighting tools are gone and you must put out the fires using a little rain falling from the sky.
